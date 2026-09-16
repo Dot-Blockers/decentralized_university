@@ -1,0 +1,86 @@
+[
+  {
+    "id": "full-stack-blockchain-development-web3-frontend-engineering",
+    "title": "Full Stack Blockchain Development (Web3 Frontend Engineering)",
+    "description": "Full stack blockchain development (or Web3 development) is the process of building decentralized applications (dApps).",
+    "duration": "45 Hours",
+    "lessonsCount": 10,
+    "difficulty": "Advanced",
+    "rating": 5,
+    "enrolledStudents": 0,
+    "tags": [
+      "Next.js 15 Solidity Web3.js Wagmi Server Actions Ethers.js"
+    ],
+    "instructor": "Umair Riaz",
+    "createdAt": "2026-09-16T07:09:45.775Z"
+  },
+  {
+    "id": "decentralized-financing-defi-protocols",
+    "title": "Decentralized Financing (DeFi) Protocols",
+    "description": "Decentralized Finance (DeFi) Protocols are blockchain-based financial applications",
+    "duration": "50 Hours",
+    "lessonsCount": 12,
+    "difficulty": "Advanced",
+    "rating": 5,
+    "enrolledStudents": 0,
+    "tags": [
+      "Solidity EVM Ethereum Smart Contracts Security"
+    ],
+    "instructor": "Umair Riaz",
+    "createdAt": "2026-09-16T07:08:08.419Z"
+  },
+  {
+    "id": "solidity-smart-contracts",
+    "title": "Solidity Core & Advanced Smart Contract Security",
+    "description": "Write production-grade smart contracts on EVM chains. Learn about gas optimization, reentrancy guards, upgradability patterns (UUPS), and hardhat/foundry workflows.",
+    "duration": "25 Hours",
+    "lessonsCount": 32,
+    "difficulty": "Advanced",
+    "rating": 4.8,
+    "enrolledStudents": 850,
+    "tags": [
+      "Solidity",
+      "EVM",
+      "Ethereum",
+      "Smart Contracts",
+      "Security"
+    ],
+    "instructor": "Umair Riaz"
+  },
+  {
+    "id": "web3-frontend",
+    "title": "Web3 Frontend Engineering with Ethers.js & Wagmi",
+    "description": "Build robust Web3 user interfaces. Integrate browser wallets, handle real-time chain status, write customized hooks, and listen to blockchain contract events.",
+    "duration": "12 Hours",
+    "lessonsCount": 16,
+    "difficulty": "Beginner",
+    "rating": 4.7,
+    "enrolledStudents": 1560,
+    "tags": [
+      "Wagmi",
+      "Viem",
+      "Ethers.js",
+      "React Hooks",
+      "Web3 Integration"
+    ],
+    "instructor": "Umair Riaz"
+  },
+  {
+    "id": "decentralized-daos",
+    "title": "Decentralized Systems, Tokenomics & DAO Governance",
+    "description": "Understand structural design for decentralized autonomous organizations. Build governors, multi-sig setups, voting strategies, and token economics simulators.",
+    "duration": "15 Hours",
+    "lessonsCount": 20,
+    "difficulty": "Advanced",
+    "rating": 4.9,
+    "enrolledStudents": 680,
+    "tags": [
+      "DAO Governance",
+      "Tokenomics",
+      "Multi-Sig",
+      "SecondaryDAO",
+      "Smart Contracts"
+    ],
+    "instructor": "Umair Riaz"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "admin-default-id",
+    "name": "Umair Riaz",
+    "email": "umair@dotblockers.com",
+    "passwordHash": "$2b$10$TjtyxxLy6ghVN.pmaxVARO6btjUVglwn0ZV81XvtPQ/Wyl11dAT6u",
+    "role": "admin",
+    "github": "umair-riaz",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "createdAt": "2026-09-13T23:09:30.586Z",
+    "lastLogin": "2026-09-14T19:11:50.998Z",
+    "token": "tok_25b608814d6182123b8a13d0909aa67ae0f9aa0cdd7c147b"
+  },
+  {
+    "id": "usr_oa3cu9142",
+    "name": "Arsalan",
+    "email": "arsalan@gmail.com",
+    "passwordHash": "$2b$10$qoZ/aoF3JjDnct/mpMHf4uK8d6oJsjotLAxLAINTq8dybN4AMezaq",
+    "role": "student",
+    "github": "arsalan123",
+    "token": "tok_4def8cd133e522f01d3405661b5cddc2f961d9dba832185e",
+    "createdAt": "2026-09-14T18:03:37.065Z",
+    "lastLogin": "2026-09-14T18:04:27.364Z"
+  }
+]

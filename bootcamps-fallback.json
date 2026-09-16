@@ -1,0 +1,46 @@
+[
+  {
+    "id": "full-stack-blockchain-development-web3-frontend-engineering",
+    "title": "Full Stack Blockchain Development (Web3 Frontend Engineering)",
+    "description": "Whether you're a frontend developer looking to transition into Web3 or a beginner eager to build blockchain-powered applications, this bootcamp provides the practical skills employers and startups are looking for.",
+    "duration": "3 hours",
+    "startDate": "Sep 26, 2026",
+    "schedule": "Sat (9 PM - 12 PM UTC)",
+    "price": "$Rs. 1000",
+    "highlights": [
+      "1-on-1 Code Mentorship with Umair Riaz"
+    ],
+    "techTags": [
+      "Next.js 15",
+      "Solidity",
+      "Ethers.js",
+      "Wagmi",
+      "web3.js"
+    ],
+    "maxSeats": 50,
+    "createdAt": "2026-09-16T07:04:38.742Z"
+  },
+  {
+    "id": "web3-nextjs-accelerator",
+    "title": "12-Week Web3 & Next.js Career Accelerator",
+    "description": "An intensive, cohort-based immersive training program designed to take you from a standard web developer to a professional, industry-ready Web3 Full-Stack engineer.",
+    "duration": "12 Weeks",
+    "startDate": "October 1st, 2026",
+    "schedule": "Tue, Thu (6 PM - 8 PM UTC), Sat (10 AM - 1 PM UTC)",
+    "price": "$1,499",
+    "highlights": [
+      "1-on-1 career coaching & mentoring from Umair Riaz",
+      "Real-world capstone project working with SecondaryDAO sandbox",
+      "Ethers.js / Wagmi masterclass with mock decentralized audit",
+      "Exclusive recruitment access to global Web3 startups"
+    ],
+    "techTags": [
+      "Next.js 15",
+      "Solidity",
+      "TypeScript",
+      "Wagmi",
+      "Auditing"
+    ],
+    "maxSeats": 30
+  }
+]
