@@ -297,10 +297,11 @@ export default function App() {
         />
         <CoursesList
           courses={courses}
-          onSelectCourse={(courseId) => {
-            navigate("/courses/" + courseId);
-            window.scrollTo({ top: 0, behavior: "smooth" });
-          }}
+          onSelectCourse={handleOpenEnrollModal}
+          // onSelectCourse={(courseId) => {
+          //   navigate("/courses/" + courseId);
+          //   window.scrollTo({ top: 0, behavior: "smooth" });
+          // }}
         />
       </div>
     );
