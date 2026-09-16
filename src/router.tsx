@@ -29,6 +29,7 @@ export function getCleanPath(): string {
 
 // Derive navigation active tab key from URL path
 export function pathToActiveTab(path: string): string {
+  
   if (path === "/" || path.startsWith("/courses")) return "courses";
   if (path.startsWith("/bootcamps")) return "bootcamps";
   if (path.startsWith("/video-lessons") || path.startsWith("/lessons")) return "lessons";
