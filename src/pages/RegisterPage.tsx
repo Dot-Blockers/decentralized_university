@@ -190,7 +190,7 @@ export default function RegisterPage() {
             </div>
 
             {/* Role Switcher */}
-            <div className="pt-2">
+            {/* <div className="pt-2">
               <label className="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-1.5 text-left">
                 Account Role
               </label>
@@ -219,10 +219,10 @@ export default function RegisterPage() {
                   <span>Faculty Admin</span>
                 </button>
               </div>
-            </div>
+            </div> */}
 
             {/* If Faculty Admin selected */}
-            {role === "admin" && (
+            {/* {role === "admin" && (
               <div className="p-3 bg-indigo-50 border border-indigo-100 rounded-xl">
                 <label htmlFor="reg-faculty-passcode" className="block text-xs font-bold text-indigo-900 mb-1 text-left">
                   Faculty Secret Passcode
@@ -239,7 +239,7 @@ export default function RegisterPage() {
                   Default instructor passcode: <code>admin123</code>
                 </span>
               </div>
-            )}
+            )} */}
 
             <button
               type="submit"
