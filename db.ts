@@ -7,7 +7,7 @@ import dns from "dns";
 
 // Fix for Node.js "querySrv ECONNREFUSED" when querying MongoDB Atlas SRV records
 try {
-  dns.setServers(["8.8.8.8", "8.8.4.4", "1.1.1.1"]);
+  dns.setServers(["8.8.8.8", "8.8.4.4", "1.1.1.1","0.0.0.0"]);
 } catch (e) {
   // Ignore if custom DNS server override is restricted
 }
