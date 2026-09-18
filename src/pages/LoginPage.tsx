@@ -66,13 +66,7 @@ export default function LoginPage() {
         </p>
 
         {/* Database Status Badge */}
-        <div className="mt-3 flex items-center justify-center space-x-2">
-          <span className="inline-flex items-center space-x-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700 border border-blue-100">
-            <Database className="h-3.5 w-3.5 text-blue-600" />
-            <span>MongoDB Auth Store</span>
-            <span className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse ml-0.5"></span>
-          </span>
-        </div>
+      
       </div>
 
       <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
@@ -163,7 +157,7 @@ export default function LoginPage() {
           </form>
 
           {/* Quick Demo Credentials Switcher */}
-          <div className="mt-6 pt-6 border-t border-slate-100">
+          {/* <div className="mt-6 pt-6 border-t border-slate-100">
             <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider block mb-3 text-center">
               Quick One-Click Test Accounts
             </span>
@@ -185,7 +179,7 @@ export default function LoginPage() {
                 <span className="truncate">Lead Instructor</span>
               </button>
             </div>
-          </div>
+          </div> */}
 
           <div className="mt-6 text-center">
             <p className="text-xs text-slate-500">
